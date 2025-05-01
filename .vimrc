@@ -4,3 +4,5 @@ let g:mail42 = 'gade-oli@student.42madrid.com'
 command Q q
 command W w
 command Wq wq
+set ruler
+set laststatus=2
